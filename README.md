@@ -1,7 +1,7 @@
 # Hi there, I'm @PhoenixHKm 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Electrical%20Engineering%20Undergrad&fontSize=40&fontAlignY=38&desc=Python%20%26%20Micro:bit%20%7C%20HKDSE%205**%20Achiever&descAlignY=55&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Electrical%20Engineering%20Undergrad&fontSize=40&fontAlignY=38&desc=Python%20and%20Micro:bit%20%7C%20HKDSE%205**%20Achiever&descAlignY=55&descAlign=50" alt="Header Banner" />
 </div>
 
 ## 👨‍🎓 About Me
