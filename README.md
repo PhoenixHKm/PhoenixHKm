@@ -1,4 +1,4 @@
-# Phoenix HKm
+# PhoenixHKm
 
 **Electrical Engineering Undergraduate | Python Developer | Hardware Enthusiast**
 
